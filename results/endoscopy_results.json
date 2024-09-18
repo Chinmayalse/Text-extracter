@@ -1,0 +1,18 @@
+{
+    "test_name": "Colonoscopy Report",
+    "indication": "Altered bowel",
+    "premedication": "Monitored anaesthesia with sedation",
+    "preparation": "Good",
+    "findings": {
+        "left_colon": "Normal",
+        "rectum_and_sigmoid_colon": {
+            "description": "Mucosal ulceration with luminal narrowing",
+            "growth": "Suspected growth in the lower end, approximately 10-12 cm from anal verge",
+            "biopsy": "Bx taken"
+        },
+        "anal_canal": "Normal"
+    },
+    "conclusion": "Recto sigmoid growth with proximal area of ulceration",
+    "complications": "Nil",
+    "advice": "Not specified"
+}

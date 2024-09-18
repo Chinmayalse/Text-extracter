@@ -1,0 +1,105 @@
+{
+    "Cancer": {
+        "CA 15-3": {
+            "value": 12.6,
+            "units": "U/mL",
+            "refRange": "<31.3"
+        },
+        "CA 19-9": {
+            "value": 2,
+            "units": "U/mL",
+            "refRange": "<37"
+        },
+        "CA-125": {
+            "value": 0.2,
+            "units": "U/mL",
+            "refRange": "<35"
+        },
+        "CEA": {
+            "value": 1.5,
+            "units": "ng/mL",
+            "refRange": "<5"
+        }
+    },
+    "Liver": {
+        "AFP": {
+            "value": 2.54,
+            "units": "U/mL",
+            "refRange": "0.5-5.5"
+        },
+        "GGT": {
+            "value": 36.6,
+            "units": "U/L",
+            "refRange": "<38"
+        },
+        "Alkaline Phosphatase": {
+            "value": 120.5,
+            "units": "U/L",
+            "refRange": "45-129"
+        },
+        "Bilirubin - Total": {
+            "value": 0.31,
+            "units": "mg/dL",
+            "refRange": "0.3-1.2"
+        },
+        "Bilirubin - Direct": {
+            "value": 0,
+            "units": "mg/dL",
+            "refRange": "<0.3"
+        },
+        "SGOT": {
+            "value": 25.4,
+            "units": "U/L",
+            "refRange": "<31"
+        },
+        "SGPT": {
+            "value": 31.9,
+            "units": "U/L",
+            "refRange": "<34"
+        },
+        "Albumin": {
+            "value": 4.27,
+            "units": "g/dL",
+            "refRange": "3.2-4.8"
+        },
+        "Total Protein": {
+            "value": 7.66,
+            "units": "g/dL",
+            "refRange": "5.7-8.2"
+        },
+        "Bilirubin (Indirect)": {
+            "value": 0.21,
+            "units": "mg/dL",
+            "refRange": "0-0.9"
+        },
+        "Serum Alb/Globulin Ratio": {
+            "value": 1.26,
+            "units": "Ratio",
+            "refRange": "0.9-2"
+        }
+    },
+    "Iron Deficiency": {
+        "TIBC": {
+            "value": 362,
+            "units": "μg/dL",
+            "refRange": "215-535"
+        },
+        "Iron": {
+            "value": 24.5,
+            "units": "μg/dL",
+            "refRange": "50-170"
+        },
+        "Transferrin Saturation": {
+            "value": 6.77,
+            "units": "%",
+            "refRange": "13-48"
+        }
+    },
+    "Thyroid": {
+        "TSH": {
+            "value": 3.14,
+            "units": "μIU/mL",
+            "refRange": "0.35-4.94"
+        }
+    }
+}

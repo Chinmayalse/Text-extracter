@@ -1,0 +1,7 @@
+Flask
+numpy
+opencv-python
+easyocr
+pytesseract
+pypdfium2
+scikit-image
